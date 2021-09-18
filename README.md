@@ -1,8 +1,8 @@
 # np-fx
 
-**NoPixel 3.0 FX With Server Side**
+**NoPixel 3.0 FX With Server Side Full.**
 
-*For Now some server-sides.lua not here because i had people bought it from me :), you need to complete it*
+*Update:* Now it is full server-sided.
 
 Credits: `Skull#5065`
 <!-- <p align="center">
